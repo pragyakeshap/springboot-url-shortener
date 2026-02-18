@@ -63,6 +63,3 @@ The application will start on [http://localhost:8080](http://localhost:8080).
   ```
   DELETE /1
   ```
-
-## License
-MIT
